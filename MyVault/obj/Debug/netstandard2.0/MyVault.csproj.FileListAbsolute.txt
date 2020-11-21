@@ -1,0 +1,13 @@
+/Users/balta/dev/MyVault/MyVault/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/balta/dev/MyVault/MyVault/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/balta/dev/MyVault/MyVault/obj/Debug/netstandard2.0/MyVault.AssemblyInfoInputs.cache
+/Users/balta/dev/MyVault/MyVault/obj/Debug/netstandard2.0/MyVault.AssemblyInfo.cs
+/Users/balta/dev/MyVault/MyVault/obj/Debug/netstandard2.0/MyVault.csproj.CoreCompileInputs.cache
+/Users/balta/dev/MyVault/MyVault/obj/Debug/netstandard2.0/MyVault.dll
+/Users/balta/dev/MyVault/MyVault/obj/Debug/netstandard2.0/ref/MyVault.dll
+/Users/balta/dev/MyVault/MyVault/obj/Debug/netstandard2.0/MyVault.pdb
+/Users/balta/dev/MyVault/MyVault/bin/Debug/netstandard2.0/MyVault.deps.json
+/Users/balta/dev/MyVault/MyVault/bin/Debug/netstandard2.0/MyVault.dll
+/Users/balta/dev/MyVault/MyVault/bin/Debug/netstandard2.0/ref/MyVault.dll
+/Users/balta/dev/MyVault/MyVault/bin/Debug/netstandard2.0/MyVault.pdb
+/Users/balta/dev/MyVault/MyVault/obj/Debug/netstandard2.0/XamlC.stamp

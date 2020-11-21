@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{766D99F7-E0B2-4EC2-B5F6-F11038D5B33A}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyVault/MainPage.xaml">
+    <Files>
+      <File FileName="MyVault/MainPage.xaml" Line="10" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyVault" expanded="True">
+            <Node name="MyVault" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyVault.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyVault.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.791B0C82-2C05-4817-A099-0BB71BF44C16" />
+</Properties>

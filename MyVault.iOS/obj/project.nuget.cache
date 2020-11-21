@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tbPAS8WCI1YEQEL7MdY6936dE14y31FkkzRA+uX5MZWO8w6KeCKtCu3wUzB6tW1Z4IIxKGIZQdvA1RR/KOz+UQ==",
+  "success": true,
+  "projectFilePath": "/Users/balta/dev/MyVault/MyVault.iOS/MyVault.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/balta/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/balta/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
